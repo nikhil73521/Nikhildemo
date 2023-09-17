@@ -1,2 +1,2 @@
-# Nikhildemo
-This is My First Repository.
+# Nikhil-demo
+This is My First Git Repository.
